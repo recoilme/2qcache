@@ -1,0 +1,25 @@
+
+/.idea/*
+# Built application files
+# Generated files
+bin/
+gen/
+out/
+
+# File caches
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Idea non-crucial project files
+*.idea
+*.iws
+*.iml
+*.ipr
